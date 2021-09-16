@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @chopraprajin (Prajin Chopra)
+- 👋 Hi, I’m Prajin Chopra.
 - 👀 Interested in different types of technologies, recently got interested in finance & fintech, marketing, crypto & blockchain-related tech. Space fascinates me a lot, so indeed also the tech around it.
 - 🌱 Currently learning to code.
 - 💞️ Open to collaborate to learn new things.
