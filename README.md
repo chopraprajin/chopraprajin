@@ -2,7 +2,7 @@
 - 👀 Interested in finance & fintech, marketing, web3 & blockchain-related tech and startup world. Space fascinates me a lot, so indeed also the tech around it.
 - 🌱 Currently learning to code.
 - 💞️ Open to collaborate to learn new things.
-- 📫 Reach me at Twitter (https://twitter.com/chopraprajin) or Linkedin (https://www.linkedin.com/in/chopraprajin/)
+- 📫 Reach me at chopraprajin@duck.com.
 
 <!---
 chopraprajin/chopraprajin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
