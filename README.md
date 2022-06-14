@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Prajin Chopra.
 - 👀 Interested in finance & fintech, marketing, web3 & blockchain-related tech and startup world. Space fascinates me a lot, so indeed also the tech around it.
-- 🌱 Currently learning to code.
 - 💞️ Open to collaborate to learn new things.
 - 📫 Reach me at chopraprajin@duck.com.
 
